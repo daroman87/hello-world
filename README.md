@@ -1,2 +1,2 @@
 # hello-world
-Hi my name is Diego Roman and I want to learn how to code. 
+Hi my name is Diego Roman and I want to learn how to code. Cheers
